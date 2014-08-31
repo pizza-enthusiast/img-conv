@@ -1,7 +1,5 @@
 #! /bin/bash
 
-# cp /home/thomas/scripts/img-conv/img-conv.sh /usr/local/bin/img-conv ; chmod a+x /usr/local/bin/img-conv
-
 echo "What image is coming in (no periods):"
 read input
 
